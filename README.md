@@ -1,6 +1,5 @@
-# About Minebot
-**Minebot** is a minecraft bot made in python, powered by [Minescript](https://minescript.net/).  
-aaad more  
+# About Workerbot
+**Workerbot** is a minecraft bot made in python, powered by [Minescript](https://minescript.net/).  
 
 # How to use
 
